@@ -69,4 +69,4 @@ _Métodos de ecuaciones lineales._
 
 Por mi parte es todo, fue un agrado hacer todas estas practicas, pues mis conocimientos en esta materia siento que mejoraron más que antes, le agradezco mucho por su tiempo y comprensión. 
 
-# GRACIAS y hasta pronto.
+# ¡GRACIAS y hasta pronto!
