@@ -7,7 +7,7 @@
 
 **Temas:**
 
-_Introduccion y variables de programacion en lenguaje C._ 
+_Introducción y variables de programación en lenguaje C._ 
 
 °[Practica 1.- IMC](https://github.com/Briseida562/Proyecto_PyMN-Repositorio/blob/main/P1-IMC.c) 
 
