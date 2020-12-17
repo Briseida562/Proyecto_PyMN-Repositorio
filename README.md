@@ -3,6 +3,8 @@
 
 | Proyecto final de la materia de Programación y Métodos Numéricos en la UABC. Impartida por el profesor ROILHI FRAJO IBARRA HERNANDEZ |
 
+| Mi nombre es Briseida Becerra del grupo 021 de la **U**niversidad **A**utónoma de **B**aja **C**alifornia |
+
 **Temas:**
 
 _Introduccion y variables de programacion en lenguaje C._ 
@@ -62,3 +64,8 @@ _Métodos de ecuaciones lineales._
 °[Practica 11.- Método de Gauss Seidel](https://github.com/Briseida562/Proyecto_PyMN-Repositorio/blob/main/P11-GAUSS.c)
 
 °[Practica 11.- Método de Jacobi](https://github.com/Briseida562/Proyecto_PyMN-Repositorio/blob/main/P11-JACOBI.c)
+
+
+Por mi parte es todo, fue un agrado hacer todas estas practicas, pues mis conocimientos en esta materia siento que mejoraron más que antes, le agradezco mucho por su tiempo y comprensión. 
+
+# GRACIAS y hasta pronto.
