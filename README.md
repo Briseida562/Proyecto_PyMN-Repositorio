@@ -66,6 +66,7 @@ _Métodos de ecuaciones lineales._
 °[Practica 11.- Método de Jacobi](https://github.com/Briseida562/Proyecto_PyMN-Repositorio/blob/main/P11-JACOBI.c)
 
 
+
 Por mi parte es todo, fue un agrado hacer todas estas practicas, pues mis conocimientos en esta materia siento que mejoraron más que antes, le agradezco mucho por su tiempo y comprensión. 
 
 # GRACIAS y hasta pronto.
